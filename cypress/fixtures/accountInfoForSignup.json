@@ -1,0 +1,19 @@
+{
+    "firstname" : "scout",
+    "lastname"  : "Plays",
+    "newEmail"  : "erlinghaaland@gmail.com",
+    "newTelephone" : "01705521595",
+    "address1" : "Tushardhara R/A",
+    "address2" : "Saddam Market",
+    "city" : "Matuail", 
+    "region" : "Dhaka",
+    "country" : "Bangladesh",
+    "zipcode" : "1362", 
+    "loginName" : "erling1243",
+    "newLoginName" : "little1243",
+    "newPassword" : "scout1595",
+    "newConfirmPassword" : "scout1595",
+    "invalidEmail" : "dfs&#($&#com",
+    "invalidLoginName" : "^#&12"
+
+}

@@ -1,0 +1,9 @@
+{
+    "validLoginName" : "franky1243",
+    "validPassword"  : "franky1595",
+    "InvalidLoginName" : "sohel1243",
+    "invalidPassword"  : "sohel1595",
+    "newPassword" : "sohel5758",
+    "InvalidConfirmPassword" : "sohel5656", 
+    "invalidCurrentPassword" : "franky5656"
+}

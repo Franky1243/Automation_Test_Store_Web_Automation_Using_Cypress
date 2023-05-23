@@ -1,0 +1,14 @@
+{
+    "validFirstName" : "Sohel",
+    "validEmail"  : "frankenstein.cse@gmail.com",
+    "enquiry"   : "Oh man, this is such a drag",
+    "ExpMessageForValid" : "Your enquiry has been successfully sent to the store owner!",
+    "invalidFirstName" : "&$*$^#1234",
+    "invalidEmail" : "ddfshkd&#^$^^#&",
+    "onlyNumbersInsteadOfEmail" : "0150575647545",
+    "onlyNumbersInsteadOfFirstName" : "0150575647545",
+    "emailBlankErrorMessage" : "Email: is required field! E-Mail Address does not appear to be valid!",
+    "firstNameBlankErrorMessage" : "First name: is required field! Name must be between 3 and 32 characters!",
+    "enquiryBlankErrorMessage" : "Enquiry: is required field! Enquiry must be between 10 and 3000 characters!",
+    "emailInvalidErrorMessage" : " E-Mail Address does not appear to be valid!"
+}
